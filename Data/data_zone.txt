@@ -1,0 +1,15 @@
+﻿#-------------------------------------------------------------
+# Fichier de données : Zones
+# Pokemon Script Project - Krosk
+# 08/05/08
+#-------------------------------------------------------------
+# $data_zone
+#   [Nom]
+#-------------------------------------------------------------
+
+  $data_zone[1] = ["CENTRE ROUGE", "panel4.png"]
+  $data_zone[2] = ["ROUTE VERTE", "panel1.png"]
+  $data_zone[3] = ["CAVERNE ORANGE", "panel3.png"]
+  $data_zone[4] = ["RIVE BLEUE", "panel2.png"]
+  $data_zone[5] = ["ILOT BLANC", "panel5.png"]
+  $data_zone[6] = ["CHEMIN UNYS", "panel1.png"]
