@@ -1,21 +1,20 @@
----------- Erreur de script : évènement ----------
+---------- Erreur de script : Pokemon_Battle_Trainer ----------
 ----- Type
-NameError
+NoMethodError
 
 ----- Message
-(eval):1:in `command_355'uninitialized constant Interpreter::Movies
+- ARGS - []
+undefined method `dead?' for nil:NilClass
 
------ Position de l'évènement
-MAP 1 EVENT 2
-SCRIPT
-Graphics.play_movie(Movies/intro.avi, true, true)
-
+----- Position dans Pokemon_Battle_Trainer
+Ligne 127
 
 ----- Backtrace
-Script : Interpreter Bis | Ligne : 444 | Méthode : in `command_355'
-Script : Interpreter 2 | Ligne : 215 | Méthode : in `eval'
-Script : Interpreter Bis | Ligne : 444 | Méthode : in `command_355'
-Script : Interpreter 2 | Ligne : 215 | Méthode : in `execute_command'
+Script : Pokemon_Battle_Trainer | Ligne : 127 | Méthode : in `initialize'
+Script : Interpreter | Ligne : 62 | Méthode : in `new'
+Script : Interpreter | Ligne : 62 | Méthode : in `call_battle_trainer'
+Script : Interpreter Bis | Ligne : 181 | Méthode : in `command_301'
+Script : Interpreter 2 | Ligne : 151 | Méthode : in `execute_command'
 Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
 Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
 Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
