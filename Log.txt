@@ -1,29 +1,19 @@
----------- Erreur de script : Loading ----------
+---------- Erreur de script : Pokemon_Battle_Wild ----------
 ----- Type
-Errno::ENOENT
+NoMethodError
 
 ----- Message
-No such file or directory - Graphics/Characters/oak
+- ARGS - []
+undefined method `dead?' for nil:NilClass
 
------ Position dans Loading
-Ligne 1
+----- Position dans Pokemon_Battle_Wild
+Ligne 83
 
 ----- Backtrace
-Script : Loading | Ligne : 1 | Méthode : in `initialize'
-Script : Loading | Ligne : 1 | Méthode : in `new'
-Script : Loading | Ligne : 1 | Méthode : in `load_bitmap'
-Script : Loading | Ligne : 1 | Méthode : in `character'
-Script : Sprite_Character | Ligne : 45 | Méthode : in `update'
-Script : Sprite_Character | Ligne : 21 | Méthode : in `initialize'
-Script : MAPLINK | Ligne : 124 | Méthode : in `new'
-Script : MAPLINK | Ligne : 124 | Méthode : in `initialize'
-Script : MAPLINK | Ligne : 123 | Méthode : in `each'
-Script : MAPLINK | Ligne : 123 | Méthode : in `initialize'
-Script : Scene_Map | Ligne : 192 | Méthode : in `new'
-Script : Scene_Map | Ligne : 192 | Méthode : in `transfer_player'
-Script : Scene_Map | Ligne : 55 | Méthode : in `alias_update'
-Script : Scene_Map | Ligne : 46 | Méthode : in `loop'
-Script : Scene_Map | Ligne : 59 | Méthode : in `alias_update'
+Script : Pokemon_Battle_Wild | Ligne : 83 | Méthode : in `initialize'
+Script : Scene_Map | Ligne : 302 | Méthode : in `new'
+Script : Scene_Map | Ligne : 302 | Méthode : in `call_battle'
+Script : Scene_Map | Ligne : 133 | Méthode : in `alias_update'
 Script : MAPPANEL | Ligne : 90 | Méthode : in `update'
 Script : Scene_Map | Ligne : 25 | Méthode : in `main'
 Script : Scene_Map | Ligne : 19 | Méthode : in `loop'
