@@ -1,47 +1,34 @@
-[RMXP] Pokemon Script Project - 2nd Beta
-Version 0.7 - 09/09/08
-Par Krosk
+[RMXP] Pokemon 1234
 
-Le contenu actuel de Pokemon Script Project est le fruit du travail de quelques personnes.
+D'après l'idée original de "The Pokemon Compagny"
+Développé sous RPG Maker XP
+Avec l'aide de Pokemon Script Project
 
-Par ordre alphabétique, ainsi que leur contribution à la mise à jour actuelle :
+-----------------------------------------
+Scenario: Vastym, Xelofeur
+Mapping: Vastym, Xelofeur
+Configuration: Vastym
+-----------------------------------------
+Pokemon Script Project:
+Animations d'attaques: Bibiantonio, Ghioa, Mortenkein
+Base de données attaque: DJStarmix
+Carte dresseur: Louro
+Corrections: FL0RENT_
+Data_pokemon.txt: Speed
+Evolution 4G: DJStarmix, Drakhaine, Sphinx
+Fonction du menu Debug: Drakhaine
+Modèle du Pokédex: Shaolan
+Noyau script: Krosk
+Réintégration 4G: Krosk 
+Script de stockage des Objets: Néva
+Scripts, Machine à sous: Nuri Yuri
+Ressources: Bibiantonio, Guille-Kun, Kezal, Mortenkein(Tileset), Link(Animations), Slash53(Sprite & Rips)
+-----------------------------------------
+Script Zeus Video Player: Zeus81
+Scipt Follow me: Brendan75
+Ressources TileSet: AdalKroofs
+Ressources Audio: Pokemon Gemme
+Ressources Battler: GTFo(Red), Vastym(Red)
+Ressources Video: Vastym
 
-bibiantonio (animations d'attaques, ressources)
-DJStarmix (base de données attaque/évolution 4G)
-Drakhaine (fonction du menu Debug, codage évolution 4G)
-ghioa (animations d'attaques)
-Krosk (noyau script, réintégration 4G)
-Link (ressources animations)
-Louro (carte dresseur)
-Mortenkein (ressources tileset et animations)
-Shaolan (modèle du Pokédex)
-Slash53 (sprites Pokémons 4G, rips divers 4G)
-speed (data_pokemon.txt, partie 4G)
-Sphinx (codage évolution 4G, suggestions)
-
-[PSP] Pokémon Script Project 5G
-Version 0.4
-Par Zohran
-
-Crédits non ordonnés :
-Sphinx, Endoh, MoussPSP, Nuri Yuri, 
-Slash, Krosk, Zelda, Ergg, Pichou,
-Dymew, Lén, DJStarmix, Ghioa, Spiky,
-ITA, Louro, Speed, Jordan, Warpras,
-TyranitarDark, New Titeuf, Ace, Link, Wesker,
-Light-PA, Palbolsky, Bibiantonio, Miniyas, 
-NT, RMXPStudio, Denis bros, Mister-K,
-BoOmxBig, Shaolan, Empire1601, Mortenkein
-
-[PSP] Graphismes des Pokémon 5G
-sansonic, KaiserYoshi et Mortenkein
-
-[PSP] Script de stockage des Objets
-Néva
-
-[PSP] Machine à sous (casino)
-Nuri Yuri : Script (Tous droits réservés)
-Kezal & Guille-Kun : Ressources
-
-Corrections
-FL0RENT_ : Data Pokémon (data_pokemon.txt), changements apportés sur la version 0.8.6
+Toutes les images, sons et vidéos sont la propriété de "The Pokemon Compagny".
