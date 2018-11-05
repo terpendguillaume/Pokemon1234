@@ -1,24 +1,20 @@
----------- Erreur de script : Pokemon_Battle_Trainer ----------
+---------- Erreur de script : Game_Map ----------
 ----- Type
-NoMethodError
+Errno::ENOENT
 
 ----- Message
-- ARGS - []
-undefined method `reset_stat_stage' for nil:NilClass
+No such file or directory - Data/Map003.rxdata
 
------ Position dans Pokemon_Battle_Trainer
-Ligne 154
+----- Position dans Game_Map
+Ligne 12
 
 ----- Backtrace
-Script : Pokemon_Battle_Trainer | Ligne : 154 | Méthode : in `initialize'
-Script : Interpreter | Ligne : 62 | Méthode : in `new'
-Script : Interpreter | Ligne : 62 | Méthode : in `call_battle_trainer'
-Script : Interpreter Bis | Ligne : 181 | Méthode : in `command_301'
-Script : Interpreter 2 | Ligne : 151 | Méthode : in `execute_command'
-Script : Interpreter 1 | Ligne : 199 | Méthode : in `update'
-Script : Interpreter 1 | Ligne : 113 | Méthode : in `loop'
-Script : Interpreter 1 | Ligne : 204 | Méthode : in `update'
-Script : Scene_Map | Ligne : 48 | Méthode : in `alias_update'
+Script : Game_Map | Ligne : 12 | Méthode : in `load_data'
+Script : Game_Map | Ligne : 12 | Méthode : in `alias_setup'
+Script : MAPPANEL | Ligne : 83 | Méthode : in `setup'
+Script : Scene_Map | Ligne : 163 | Méthode : in `follow_me_transfer_player'
+Script : Follow Me | Ligne : 94 | Méthode : in `transfer_player'
+Script : Scene_Map | Ligne : 55 | Méthode : in `alias_update'
 Script : Scene_Map | Ligne : 46 | Méthode : in `loop'
 Script : Scene_Map | Ligne : 59 | Méthode : in `alias_update'
 Script : MAPPANEL | Ligne : 90 | Méthode : in `follow_me_update'
